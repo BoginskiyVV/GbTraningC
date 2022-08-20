@@ -10,12 +10,3 @@ else
     Console.Write("Hi, ");
     Console.WriteLine(username);
 }
-
-//{
-//Console.WriteLine("Привет и хорошего дня");
-//}
-//else
-//{
-//Console.Write("Здравствуйте, ");
-//  Console.WriteLine("username");
-//}
