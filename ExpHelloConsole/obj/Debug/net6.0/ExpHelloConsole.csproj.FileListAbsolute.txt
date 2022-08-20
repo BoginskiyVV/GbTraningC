@@ -1,0 +1,15 @@
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\bin\Debug\net6.0\ExpHelloConsole.exe
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\bin\Debug\net6.0\ExpHelloConsole.deps.json
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\bin\Debug\net6.0\ExpHelloConsole.runtimeconfig.json
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\bin\Debug\net6.0\ExpHelloConsole.dll
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\bin\Debug\net6.0\ExpHelloConsole.pdb
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.csproj.AssemblyReference.cache
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.AssemblyInfoInputs.cache
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.AssemblyInfo.cs
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.csproj.CoreCompileInputs.cache
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.dll
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\refint\ExpHelloConsole.dll
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.pdb
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ExpHelloConsole.genruntimeconfig.cache
+D:\DOC\GBTraining\LocalFile\GBTrainingC\ExpHelloConsole\obj\Debug\net6.0\ref\ExpHelloConsole.dll
