@@ -15,7 +15,6 @@
 //     Console.Write(numberB);
 // }
 
-
 Console.Write("Введите число А: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 
